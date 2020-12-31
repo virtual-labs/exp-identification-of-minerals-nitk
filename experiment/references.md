@@ -1,10 +1,10 @@
 <table style="text-align:justify;">
-  <tr style=”background-color: white”>
+  <tr style="background-color: white">    
     <th>References</th>
     <th>Contributors list</th>
   </tr>
-  <tr style=”background-color: white”>
-    <td>
+  <tr style="background-color: white">
+  <td>
     <ol>
     <li>P.C, Vargheese , “Engineering Geology for Civil Engineers”, PHI Learning Pvt Limited, New Delhi,2011.</li>
     </li>A.C,McLean and C.D,Gribble., “ Geology for Civil Engineers”, Taylor and Francis Publications, Second Edition, 1985.</li>
