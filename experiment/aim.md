@@ -1,1 +1,1 @@
-### Aim of the experiment
+To identify the mineral based on its physical properties. 
