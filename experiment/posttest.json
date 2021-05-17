@@ -1,0 +1,46 @@
+[{
+	"question": "Magnesite is a mineral having __type of lustre",
+	"answers": {
+		"a": "Earthy",
+		"b": "Resinous",
+		"c": "Vitreous",
+		"d": "Metallic"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Four set of cleavage is present in",
+	"answers": {
+		"a": "Chlorite",
+		"b": "Fluorite",
+		"c": "Sphalerite",
+		"d": "Kayanite"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Feldspar has a hardness value of __",
+	"answers": {
+		"a": "5",
+		"b": "7",
+		"c": "8",
+		"d": "6"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "The diaphaneity of mineral which can transmit light only at edges is",
+	"answers": {
+		"a": "Transparent",
+		"b": "Translucent",
+		"c": "Transopaque",
+		"d": "Opaque"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "The definite direction or plane along which a mineral tends to break is",
+	"answers": {
+		"a": "Fracture",
+		"b": "Cleavage",
+		"c": "Both fracture and cleavage",
+		"d": "None of the above"
+	},
+	"correctAnswer": "b"
+}]
