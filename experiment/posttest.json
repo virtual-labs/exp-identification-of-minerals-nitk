@@ -8,14 +8,14 @@
 	},
 	"correctAnswer": "c"
 }, {
-	"question": "Four set of cleavage is present in",
-	"answers": {
+		"question": "Four set of cleavage is present in",
+		"answers": {
 		"a": "Chlorite",
 		"b": "Fluorite",
 		"c": "Sphalerite",
 		"d": "Kayanite"
-	},
-	"correctAnswer": "b"
+		},
+		"correctAnswer": "b"
 }, {
 	"question": "Feldspar has a hardness value of __",
 	"answers": {
