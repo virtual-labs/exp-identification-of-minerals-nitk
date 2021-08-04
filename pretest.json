@@ -1,0 +1,44 @@
+[{
+	"question": "Mineralogy is the study of minerals",
+	"answers": {
+		"a": "Only physical properties",
+		"b": "Physical properties and mode of occurrence",
+		"c": "Physical properties and mode of formation",
+		"d": "All the above"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Mineral appears as slabs of uniform thickness, then the form of mineral is",
+	"answers": {
+		"a": "Pisolotic",
+		"b": "Fibrous",
+		"c": "Tabular",
+		"d": "Lamellar"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Name the mineral which has “Rhombic form”",
+	"answers": {
+		"a": "Calcite",
+		"b": "Flint",
+		"c": "Topaz",
+		"d": "Pyrolusite"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "The exposure to atmosphere can change the colour of the mineral. (Say True or False)",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Quartz mineral surface has a shining like a glass sheet, then lustre of the mineral is ___",
+	"answers": {
+		"a": "Lustrous",
+		"b": "Vitreous",
+		"c": "Resinous",
+		"d": "Metallic"
+	},
+	"correctAnswer": "b"
+}]
